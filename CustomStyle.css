@@ -12,14 +12,20 @@ body{
 
 .login{
 	padding-bottom: 1px;
-	margin-top: 150Px;
+	margin-top: 100Px;
 	margin-bottom: 1px;
 }
 
 .xyz{
 	padding-bottom: 1px;
-	margin-top: 50Px;
+	margin-top: 40Px;
 	margin-bottom: 1px;
+}
+
+.whatsapp{
+	padding-bottom: 1px;
+	margin-top: 40Px;
+	margin-bottom: 2px;
 }
 
 
